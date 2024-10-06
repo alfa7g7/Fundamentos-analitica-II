@@ -1,1 +1,9 @@
-https://www.kaggle.com/code/alfa7g7/faii-pca-fabiansf/edit
+Enlaces de interes:
+
+- Repositorio github:
+
+https://github.com/alfa7g7/Fundamentos-analitica-II/tree/ecc7cb8c31acd53e6a2250943232827bd52ae99a/UNIDAD%20II/Proyecto%20final%20PSA
+
+- Competencia Kaggle:
+
+https://www.kaggle.com/competitions/fa-ii-2024-ii-flujos-de-modelos-tradicionales/overview
